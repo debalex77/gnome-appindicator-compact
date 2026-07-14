@@ -3,8 +3,8 @@
 ![License](https://img.shields.io/github/license/debalex77/gnome-weather-location-manager)
 
 # GNOME AppIndicator Compact
-Script pentru copierea extensiei AppIndicator în directorul utilizatorului
-și modificarea padding-ului iconițelor din bara GNOME Shell.
+Script to copy the AppIndicator extension to the user's directory and 
+changing the padding of the GNOME Shell toolbar icons.
 
 ## Utilizare
 ```bash
