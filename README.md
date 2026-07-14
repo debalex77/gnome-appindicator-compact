@@ -6,7 +6,7 @@
 Script to copy the AppIndicator extension to the user's directory and 
 changing the padding of the GNOME Shell toolbar icons.
 
-## Utilizare
+## Usage
 ```bash
 chmod +x install-appindicator-compact.sh
 ./install-appindicator-compact.sh
