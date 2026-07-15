@@ -66,5 +66,5 @@ gnome-extensions enable "${EXTENSION_UUID}"
 echo
 echo "Configurarea s-a încheiat."
 echo
-echo "Pe Wayland trebuie să ieși din sesiune și să te autentifici din nou."
-echo "Pe X11 poți încerca: Alt+F2, apoi r și Enter."
+echo "Pe Wayland trebuie să ieșiți din sesiune și să vă autentificați din nou."
+echo "Pe X11 poteși încerca: Alt+F2, apoi 'r' -> Enter."
